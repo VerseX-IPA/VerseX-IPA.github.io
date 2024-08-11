@@ -6,12 +6,12 @@
     "Emulator": [
         {
             "name": "GBA Emulator",
-            "version": "1.420",
+            "version": "1.0",
             "down": "https://uploadnow.io/f/JvJyMD8",
             "category": "Emulator",
             "description": "GameBoy Advance",
-            "bundleID": "com.hamburg.gbaemulator",
-            "appstore": "com.hamburg.gbaemulator"
+            "bundleID": "com.nianticlabs.pokemongo",
+            "appstore": "com.nianticlabs.pokemongo"
       }
     ]
 } 
