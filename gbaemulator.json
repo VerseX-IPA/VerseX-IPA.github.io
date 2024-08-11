@@ -1,0 +1,17 @@
+{
+    "META": {
+        "repoName": "Hamburg Repo",
+        "repoIcon": "https://cdn.discordapp.com/attachments/994060012970332321/1185620878067769463/IMG_6055.png?ex=66b8e7fd&is=66b7967d&hm=ff650abfa6d876db2aa53dd4b357ad3482cfee52310af763c74892c5cef32bc3&"
+    },
+    "Emulator": [
+        {
+            "name": "GBA Emulator",
+            "version": "1.0",
+            "down": "https://uploadnow.io/f/JvJyMD8",
+            "category": "Emulator",
+            "description": "GameBoy Advance",
+            "bundleID": "com.hamburg.gbaemulator",
+            "appstore": "com.hamburg.gbaemulator"
+      }
+    ]
+} 
